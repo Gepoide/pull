@@ -10,11 +10,11 @@ let seed;
 let a, r, x, y;
 let t = 1;
 
-let font1 = "SuisseIntl-Light.otf";
+//let font1 = "SuisseIntl-Light.otf";
 
-function preload() {
-  suisseLight = loadFont(font1);
-}
+// function preload() {
+//   suisseLight = loadFont(font1);
+// }
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
